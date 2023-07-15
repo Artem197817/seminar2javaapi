@@ -1,0 +1,10 @@
+июл. 15, 2023 6:11:28 PM BubbleSort sort
+INFO: [4, 8, 3, 1, 9]
+июл. 15, 2023 6:11:28 PM BubbleSort sort
+INFO: [4, 3, 1, 8, 9]
+июл. 15, 2023 6:11:28 PM BubbleSort sort
+INFO: [3, 1, 4, 8, 9]
+июл. 15, 2023 6:11:28 PM BubbleSort sort
+INFO: [1, 3, 4, 8, 9]
+июл. 15, 2023 6:11:28 PM BubbleSort sort
+INFO: [1, 3, 4, 8, 9]
